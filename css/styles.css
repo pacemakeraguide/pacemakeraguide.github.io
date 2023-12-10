@@ -10,7 +10,7 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
- span.tab-space {padding-left:0.75em;}
+ span.tab-space {padding-left:0.5em;}
 
 :root {
   --bs-blue: #0d6efd;
