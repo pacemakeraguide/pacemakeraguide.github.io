@@ -16,7 +16,7 @@ word-spacing: 4px;
 }
 
 .chillerregular {
-    font-family: 'chillerregular';
+    font-family: 'chillerregular'!important;
 }
 
 .fsize {
