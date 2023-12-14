@@ -1,10 +1,22 @@
+/* fonts */
+
+@font-face {
+    font-family: 'chillerregular';
+    src: url('/fonts/chiller_400-webfont.woff2') format('woff2'),
+         url('/fonts/chiller_400-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* general */
+
 
 .logo-space {
 word-spacing: 4px;
 }
 
-.chiller-style {
-    font-family: 'Chiller', sans-serif;
+.chillerregular {
+    font-family: 'chillerregular';
 }
 
 .fsize {
