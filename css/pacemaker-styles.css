@@ -10,3 +10,7 @@ word-spacing: 4px;
 .fsize {
     font-size: 100px;
 }
+
+.mgn-t {
+    margin-top: 16rem !important;
+}
