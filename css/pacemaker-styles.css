@@ -27,7 +27,7 @@ word-spacing: 4px;
     margin-top: 18rem !important;
 }
 
-.img-fluid {
+.img-fluid-custom {
     max-width: 100%;
     height: 300px !important;
     object-fit: cover;
